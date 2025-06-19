@@ -49,3 +49,8 @@ No more messy Downloads folder. No more duplicate clutter. Just smart, stress-fr
 
 ```bash
 python enhanced_organizer_gui.py
+
+
+## ⬇️ Download the App
+
+📥 [Download Enhanced File Organizer v2.0 (.exe)](https://github.com/09sychic/File-Organizer/releases/latest)
